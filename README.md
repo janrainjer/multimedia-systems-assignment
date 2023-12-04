@@ -9,5 +9,4 @@ Multimedia Systems (01076566), Computer Engineering 60 at KMITL.
   
 ## Assignment Directory 
 - [LZW compression/Decompression](src)
-- [Library](javafx-sdk-18.0.1)
-- [Bin/Picture](bin)
+- [FLIF compression](src)
